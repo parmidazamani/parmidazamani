@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data science and bioinformatics
 - 💞️ I’m looking to collaborate on bioinformatics projects
 - 📫 How to reach me: email me at parmidazamani21@gmail.com
+- My Kaggle account: www.kaggle.com/parmidaz
 
 <!---
 parmidazamani/parmidazamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
